@@ -14,7 +14,7 @@ There is [git-pit](https://github.com/decentlabs-north/git-pit) as an decentrali
 to git-repos; and then there is an [Embryo for Issues](https://pico-todo.surge.sh/) also sporting
 _full node on page load_.
 
-But the `PiC0` stack is still in-between versions so I'll just continue doing what ever it is that I do.
+But the `PiC0` project is still in-between versions so I'll just continue doing what ever it is that I do.
 
 Keep searching for a _network without a super node_.
 ~ Too-de-lu!
