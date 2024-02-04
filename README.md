@@ -1,16 +1,20 @@
-# Hello World
+# Hello
 `2024-02-04`
 
 I am dissapointed.  
-Because of a [general malfunction](i/more-like-4th-factor.png), I'm locked out of git-hub.  
+Because of a general malfunction, I'm locked out of git-hub.  
 
 > It kinda sucks cause I've been here like forever.  
+
+
+![not gonna](i/more-like-4th-factor.png)
+
 
 Dear Github office dwellers who
 I hope are compassionate primates in nature.
 
-I'm not a kid who's into buying toys nor fairytails, I'm just a hacker
-who loves research and publishes source code, for free.
+I'm not a kid who's into buying toys nor fairytails,  
+I'm just a hacker who loves research and publishes source code, for free.
 
 If you force me to increment factors, then I have the right to choose which.  
 This is my "second" factor:  
@@ -29,22 +33,24 @@ ssh git@github.com generate-trusted-websession
 
 Thanks.
 
+---
+
 ### Current foci
 
 I'm working on various mindblowing stuff as usual.
 
-- [PiC0](/telamon/picostack) - Coinless Blockchain `2020`
-    - `2312` picofeed v5-rc, C-implementation imminent.
-    - `2301` picostore rewritten with automatic GC
-- [S.N.A.I.L](https://git.sr.ht/~telamohn/snail) - Autonomous Sneakernet Firmware
+- [PiC0](/telamon/picostack) - Coinless Blockchain `22xx`
+    - picofeed v5-rc, C-implementation imminent `2312`
+    - picostore rewritten with automatic GC `2401`
+- [S.N.A.I.L](https://git.sr.ht/~telamohn/snail) - Autonomous Sneakernet Firmware `2402`
 <!-- - [glog](/glog.sh) - Minimal Nomadic Blog over Git -->
 
 ### Feature Complete
 
-- [1k](https://pure.xorcery.co) Unstoppable Notes
+- [1k](https://pure.xorcery.co) Unstoppable Notes `2020 to 2023`
 
+Anyway, until next time~!  
 
-Anyway, until next time~!
 /telam0hn
 
 
