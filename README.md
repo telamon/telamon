@@ -1,43 +1,11 @@
 # Hello
-`2024-02-04`
-
-I am dissapointed.  
-Because of a general malfunction, I'm locked out of git-hub.  
-
-> It kinda sucks cause I've been here like forever.  
-
-
-![not gonna](i/more-like-4th-factor.png)
-
-
-Dear Github office dwellers who
-I hope are compassionate primates in nature.
-
-I'm not a kid who's into buying toys nor fairytails,  
-I'm just a hacker who loves research and publishes source code, for free.
-
-If you force me to increment factors, then I have the right to choose which.  
-This is my "second" factor:  
-
-```
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHSEdr0OkpoTLRoafuwpNGgynhDnY/UGH+5+osiEoWPK
-```
-
-Please add `ssh`-2fa support:
-
-```bash
-ssh git@github.com generate-trusted-websession
-
-=> Welcome Back! https://github.com/ssh2fa-login?nonce=XXXX
-```
-
-Thanks.
-
+`2024-02-13`
 ---
+
+Opensource hacker.
 
 ### Current foci
 
-I'm working on various mindblowing stuff as usual.
 
 - [PiC0](/telamon/picostack) - Coinless Blockchain `22xx`
     - picofeed v5-rc, C-implementation imminent `2312`
@@ -49,7 +17,7 @@ I'm working on various mindblowing stuff as usual.
 
 - [1k](https://pure.xorcery.co) Unstoppable Notes `2020 to 2023`
 
-Anyway, until next time~!  
+
 
 /telam0hn
 
@@ -70,5 +38,5 @@ npub1q9y3wrl83vrpeek8990l7td2xqlhzzap0m7clt7cxsef9dpft6zq9lwty4
 
 --------------
 
-All wrongs reversed &#x1f12f; 2024 Decent Labs
+All wrongs reversed &#x1f12f; 2024 Tony Ivanov
 
