@@ -2,15 +2,17 @@
 `2024-02-13`
 ---
 
-Opensource hacker.
-
-### Current foci
+Open source hacker, that's me.
 
 
-- [PiC0](/telamon/picostack) - Coinless Blockchain `22xx`
-    - picofeed v5-rc, C-implementation imminent `2312`
+### Current Projects
+
+
+- [PiC0](/telamon/picostack) - Coinless stuff `22xx`
+    - picofeed v5-rc, C-implementation almost complete `2312`
     - picostore rewritten with automatic GC `2401`
 - [S.N.A.I.L](https://git.sr.ht/~telamohn/snail) - Autonomous Sneakernet Firmware `2402`
+
 <!-- - [glog](/glog.sh) - Minimal Nomadic Blog over Git -->
 
 ### Feature Complete
@@ -24,16 +26,10 @@ Opensource hacker.
 
 **PS.**
 
-Donations accepted
+Bitcoin acknowledged
 
 ```
 bc1qeq869zq82swa5qlh8l3sejtua746dv0nkqnc7l
-```
-
-I check my inbox sometimes
-
-```
-npub1q9y3wrl83vrpeek8990l7td2xqlhzzap0m7clt7cxsef9dpft6zq9lwty4
 ```
 
 --------------
