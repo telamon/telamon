@@ -24,10 +24,6 @@ Open source hacker, that's me.
 /telam0hn
 
 
-**PS.**
-
-Bitcoin acknowledged
-
 ```
 bc1qeq869zq82swa5qlh8l3sejtua746dv0nkqnc7l
 ```
