@@ -2,7 +2,7 @@
 `2024-02-13`
 ---
 
-Open source hacker, that's me.
+
 
 
 ### Current Projects
